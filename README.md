@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import dnansumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dnansumors@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/blas-ext-base-dnansumors/tags). For example,
+
+```javascript
 import dnansumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dnansumors@v0.2.2-esm/index.mjs';
 ```
 
@@ -155,7 +160,7 @@ var v = dnansumors.ndarray( 4, x, 2, 1 );
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoulli@esm/index.mjs';
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@esm/index.mjs';
-import dnansumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dnansumors@v0.2.2-esm/index.mjs';
+import dnansumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dnansumors@esm/index.mjs';
 
 function rand() {
     if ( bernoulli( 0.7 ) > 0 ) {
