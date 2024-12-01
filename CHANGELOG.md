@@ -34,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`d7058bc`](https://github.com/stdlib-js/stdlib/commit/d7058bca74f0b2ad6a94d422209e51a23a331a0d) - **test:** add opts _(by Philipp Burckhardt)_
+-   [`09ed5c5`](https://github.com/stdlib-js/stdlib/commit/09ed5c519986aee270ed1f59c13e83cc442c87e6) - **test:** add missing tests _(by Philipp Burckhardt)_
 -   [`02735b4`](https://github.com/stdlib-js/stdlib/commit/02735b4090dddd143b4845f4f1916f8d73b3ef19) - **test:** achieve 100% test coverage for `blas/ext/base/dnansumors` [(#3087)](https://github.com/stdlib-js/stdlib/pull/3087) _(by Gururaj Gurram, Philipp Burckhardt)_
 -   [`7df5877`](https://github.com/stdlib-js/stdlib/commit/7df58771f61965f3c819af3ea3b9376fedd86a86) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dnansumors` [(#3001)](https://github.com/stdlib-js/stdlib/pull/3001) _(by Muhammad Haris, Athan Reines)_
 -   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
