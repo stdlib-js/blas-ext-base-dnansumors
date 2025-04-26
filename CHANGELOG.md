@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-24)
+## Unreleased (2025-04-26)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`d7058bc`](https://github.com/stdlib-js/stdlib/commit/d7058bca74f0b2ad6a94d422209e51a23a331a0d) - **test:** add opts _(by Philipp Burckhardt)_
 -   [`09ed5c5`](https://github.com/stdlib-js/stdlib/commit/09ed5c519986aee270ed1f59c13e83cc442c87e6) - **test:** add missing tests _(by Philipp Burckhardt)_
