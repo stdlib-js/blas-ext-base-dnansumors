@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-26)
+## Unreleased (2025-08-11)
 
 <section class="features">
 
@@ -15,6 +15,16 @@
 </section>
 
 <!-- /.features -->
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`8976032`](https://github.com/stdlib-js/stdlib/commit/897603210f2f6d965857ee4495014cb92b76b7c9) - update implementation to preserve signed zeros
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="issues">
 
@@ -34,6 +44,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`8976032`](https://github.com/stdlib-js/stdlib/commit/897603210f2f6d965857ee4495014cb92b76b7c9) - **fix:** update implementation to preserve signed zeros _(by Athan Reines)_
+-   [`5c85e5e`](https://github.com/stdlib-js/stdlib/commit/5c85e5ec1dcc6f2f26d7b2d0ababcdeb7e57c2ac) - **test:** add signed zero tests _(by Athan Reines)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`d7058bc`](https://github.com/stdlib-js/stdlib/commit/d7058bca74f0b2ad6a94d422209e51a23a331a0d) - **test:** add opts _(by Philipp Burckhardt)_
