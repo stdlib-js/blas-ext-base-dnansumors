@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-11)
+## Unreleased (2025-12-15)
 
 <section class="features">
 
@@ -44,6 +44,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`d4bf364`](https://github.com/stdlib-js/stdlib/commit/d4bf364834e14eb3ebae1956a1b1ab0c14f89430) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/dnansumors` [(#8936)](https://github.com/stdlib-js/stdlib/pull/8936) _(by Krishna Awasthi)_
 -   [`8976032`](https://github.com/stdlib-js/stdlib/commit/897603210f2f6d965857ee4495014cb92b76b7c9) - **fix:** update implementation to preserve signed zeros _(by Athan Reines)_
 -   [`5c85e5e`](https://github.com/stdlib-js/stdlib/commit/5c85e5ec1dcc6f2f26d7b2d0ababcdeb7e57c2ac) - **test:** add signed zero tests _(by Athan Reines)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
@@ -65,10 +66,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gururaj Gurram
+-   Krishna Awasthi
 -   Muhammad Haris
 -   Philipp Burckhardt
 
